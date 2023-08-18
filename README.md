@@ -15,6 +15,7 @@ The objective of this investigation was to reconstruct the crime scene report an
 (iii)SQL MURDER MYSTERY.docx: This Word document documents my thought process and approach to solving the mystery. It outlines the steps I took, the assumptions I made, and the reasoning behind the queries I formulated.
 
 **How I Worked on the Mystery**
+
 (i)**Clue Analysis:** I carefully reviewed the available information about the case, including the date of the crime (January 15, 2018) and the location (SQL City). I used these details as the starting point for my investigation.
 
 (ii)**Query Formulation:** I created a series of SQL queries within the sql-murder-mystery.db.sql file to retrieve relevant information from the police department's database. These queries were crafted to retrieve data about the crime scene, victim, potential suspects, witnesses, and any other crucial details.
