@@ -8,11 +8,11 @@ The objective of this investigation was to reconstruct the crime scene report an
 
 **Files Included**
 
-(i)sql-murder-mystery.db: This database file contains the information from the police department's database. 
+**(i)sql-murder-mystery.db:** This database file contains the information from the police department's database. 
 
-(ii)sql-murder-mystery.db.sql: This SQL file contains the queries I used to retrieve information from the police department's database. These queries were designed to gather details related to the crime scene, victim, suspects, witnesses, and any other relevant data.
+**(ii)sql-murder-mystery.db.sql:** This SQL file contains the queries I used to retrieve information from the police department's database. These queries were designed to gather details related to the crime scene, victim, suspects, witnesses, and any other relevant data.
 
-(iii)SQL MURDER MYSTERY.docx: This Word document documents my thought process and approach to solving the mystery. It outlines the steps I took, the assumptions I made, and the reasoning behind the queries I formulated.
+**(iii)SQL MURDER MYSTERY.docx:** This Word document documents my thought process and approach to solving the mystery. It outlines the steps I took, the assumptions I made, and the reasoning behind the queries I formulated.
 
 **How I Worked on the Mystery**
 
